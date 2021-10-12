@@ -10,7 +10,8 @@ import java.util.HashMap;
 
 /**
  * @Author Kushal Paudyal
- * This crawler extracts the LIQ balance from the farm pool
+ * This crawler extracts the LIQ balance from the farm pool.
+ * This uses Jsoup Library (org.jsoup) and can be found in maven repo.
  */
 public class LiquidusPoolCrawler {
 
